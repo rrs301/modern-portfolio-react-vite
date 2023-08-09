@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "dist",
+    "site":"portfolio-tubeguruji",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
